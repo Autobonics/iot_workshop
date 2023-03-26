@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655536963732",
+    "firebase_url": "https://iot-workshop-c74f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-workshop-c74f4",
+    "storage_bucket": "iot-workshop-c74f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655536963732:android:75d9a3cae77868d63eb481",
+        "android_client_info": {
+          "package_name": "com.autobonics.iot_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655536963732-3232ktju98bkaq5id9kj1cd2c1ul59u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHUu96puMuv0odXxX0b2g-kph_nygKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655536963732-3232ktju98bkaq5id9kj1cd2c1ul59u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
